@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on indie game projects
 - 📫 Reach out to me via email - cleslie.sound@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have been on the slovakian version of 'Top of the Pops'.
+- ⚡ Fun fact: I have been on the slovakian 'Top of the Pops'.
 
 <!---
 cleslie943/cleslie943 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
